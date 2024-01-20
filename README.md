@@ -1,2 +1,2 @@
 # Social_Network
-OOP_Project
+OOP course final project.
